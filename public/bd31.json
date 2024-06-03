@@ -350,5 +350,148 @@
     "album": "20 años de canciones",
     "numero_de_pista": "16/16",
     "Año": "2005"
+  },
+  {
+    "archivo_musica": "Albums/198274555_1.flac",
+    "descripcion": "198274555",
+    "imagen": "Albums/198274555.png",
+    "genero": "Pop/General",
+    "titulo": "Tiny Little Bows",
+    "artista": "Carly Rae Jepsen",
+    "album": "Kiss",
+    "numero_de_pista": "1/13",
+    "Año": "2012"
+  },
+  {
+    "archivo_musica": "Albums/198274555_2.flac",
+    "descripcion": "198274555",
+    "imagen": "Albums/198274555.png",
+    "genero": "Pop/General",
+    "titulo": "This Kiss",
+    "artista": "Carly Rae Jepsen",
+    "album": "Kiss",
+    "numero_de_pista": "2/13",
+    "Año": "2012"
+  },
+  {
+    "archivo_musica": "Albums/198274555_3.flac",
+    "descripcion": "198274555",
+    "imagen": "Albums/198274555.png",
+    "genero": "Pop/General",
+    "titulo": "Call Me Maybe",
+    "artista": "Carly Rae Jepsen",
+    "album": "Kiss",
+    "numero_de_pista": "3/13",
+    "Año": "2012"
+  },
+  {
+    "archivo_musica": "Albums/198274555_4.flac",
+    "descripcion": "198274555",
+    "imagen": "Albums/198274555.png",
+    "genero": "Pop/General",
+    "titulo": "Curiosity",
+    "artista": "Carly Rae Jepsen",
+    "album": "Kiss",
+    "numero_de_pista": "4/13",
+    "Año": "2012"
+  },
+  {
+    "archivo_musica": "Albums/198274555_5.flac",
+    "descripcion": "198274555",
+    "imagen": "Albums/198274555.png",
+    "genero": "Pop/General",
+    "titulo": "Good Time",
+    "artista": "Owl City & Carly Rae Jepsen",
+    "album": "Kiss",
+    "numero_de_pista": "5/13",
+    "Año": "2012"
+  },
+  {
+    "archivo_musica": "Albums/198274555_6.flac",
+    "descripcion": "198274555",
+    "imagen": "Albums/198274555.png",
+    "genero": "Pop/General",
+    "titulo": "More Than A Memory",
+    "artista": "Carly Rae Jepsen",
+    "album": "Kiss",
+    "numero_de_pista": "6/13",
+    "Año": "2012"
+  },
+  {
+    "archivo_musica": "Albums/198274555_7.flac",
+    "descripcion": "198274555",
+    "imagen": "Albums/198274555.png",
+    "genero": "Pop/General",
+    "titulo": "Turn Me Up",
+    "artista": "Carly Rae Jepsen",
+    "album": "Kiss",
+    "numero_de_pista": "7/13",
+    "Año": "2012"
+  },
+  {
+    "archivo_musica": "Albums/198274555_8.flac",
+    "descripcion": "198274555",
+    "imagen": "Albums/198274555.png",
+    "genero": "Pop/General",
+    "titulo": "Hurt So Good",
+    "artista": "Carly Rae Jepsen",
+    "album": "Kiss",
+    "numero_de_pista": "8/13",
+    "Año": "2012"
+  },
+  {
+    "archivo_musica": "Albums/198274555_9.flac",
+    "descripcion": "198274555",
+    "imagen": "Albums/198274555.png",
+    "genero": "Pop/General",
+    "titulo": "Beautiful [feat. Justin Bieber]",
+    "artista": "Carly Rae Jepsen feat. Justin Bieber",
+    "album": "Kiss",
+    "numero_de_pista": "9/13",
+    "Año": "2012"
+  },
+  {
+    "archivo_musica": "Albums/198274555_10.flac",
+    "descripcion": "198274555",
+    "imagen": "Albums/198274555.png",
+    "genero": "Pop/General",
+    "titulo": "Tonight I’m Getting Over You",
+    "artista": "Carly Rae Jepsen",
+    "album": "Kiss",
+    "numero_de_pista": "10/13",
+    "Año": "2012"
+  },
+  {
+    "archivo_musica": "Albums/198274555_11.flac",
+    "descripcion": "198274555",
+    "imagen": "Albums/198274555.png",
+    "genero": "Pop/General",
+    "titulo": "Guitar String / Wedding Ring",
+    "artista": "Carly Rae Jepsen",
+    "album": "Kiss",
+    "numero_de_pista": "11/13",
+    "Año": "2012"
+  },
+  {
+    "archivo_musica": "Albums/198274555_12.flac",
+    "descripcion": "198274555",
+    "imagen": "Albums/198274555.png",
+    "genero": "Pop/General",
+    "titulo": "Your Heart Is A Muscle",
+    "artista": "Carly Rae Jepsen",
+    "album": "Kiss",
+    "numero_de_pista": "12/13",
+    "Año": "2012"
+  },
+  {
+    "archivo_musica": "Albums/198274555_13.flac",
+    "descripcion": "198274555",
+    "imagen": "Albums/198274555.png",
+    "genero": "Pop/General",
+    "titulo": "I Know You Have A Girlfriend",
+    "artista": "Carly Rae Jepsen",
+    "album": "Kiss",
+    "numero_de_pista": "13/13",
+    "Año": "2012"
   }
 ]
