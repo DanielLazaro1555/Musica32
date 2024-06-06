@@ -493,5 +493,137 @@
     "album": "Kiss",
     "numero_de_pista": "13/13",
     "Año": "2012"
+  },
+  {
+    "archivo_musica": "Albums/198274556_1.flac",
+    "descripcion": "198274556",
+    "imagen": "Albums/198274556.png",
+    "genero": "Dance & DJ/Drum & Bass",
+    "titulo": "Back To You",
+    "artista": "Muzzy & Voicians",
+    "album": "Alchemy (Liquicity Presents)",
+    "numero_de_pista": "1/12",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274556_2.flac",
+    "descripcion": "198274556",
+    "imagen": "Albums/198274556.png",
+    "genero": "Dance & DJ/Drum & Bass",
+    "titulo": "Whatever I Do",
+    "artista": "Cartoon & Jéja feat. Kóstja",
+    "album": "Alchemy (Liquicity Presents)",
+    "numero_de_pista": "2/12",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274556_3.flac",
+    "descripcion": "198274556",
+    "imagen": "Albums/198274556.png",
+    "genero": "Dance & DJ/Drum & Bass",
+    "titulo": "Vagrant",
+    "artista": "Feint & Veela",
+    "album": "Alchemy (Liquicity Presents)",
+    "numero_de_pista": "3/12",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274556_4.flac",
+    "descripcion": "198274556",
+    "imagen": "Albums/198274556.png",
+    "genero": "Dance & DJ/Drum & Bass",
+    "titulo": "City Needs Sleep (Fox Stevenson Remix)",
+    "artista": "Priority One, Fox Stevenson & TwoThirds",
+    "album": "Alchemy (Liquicity Presents)",
+    "numero_de_pista": "4/12",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274556_5.flac",
+    "descripcion": "198274556",
+    "imagen": "Albums/198274556.png",
+    "genero": "Dance & DJ/Drum & Bass",
+    "titulo": "Regrets",
+    "artista": "Fliwo",
+    "album": "Alchemy (Liquicity Presents)",
+    "numero_de_pista": "5/12",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274556_6.flac",
+    "descripcion": "198274556",
+    "imagen": "Albums/198274556.png",
+    "genero": "Dance & DJ/Drum & Bass",
+    "titulo": "Dawning",
+    "artista": "Monrroe feat. Emily Jones",
+    "album": "Alchemy (Liquicity Presents)",
+    "numero_de_pista": "6/12",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274556_7.flac",
+    "descripcion": "198274556",
+    "imagen": "Albums/198274556.png",
+    "genero": "Dance & DJ/Drum & Bass",
+    "titulo": "Unreal",
+    "artista": "T & Sugah feat. Ayve",
+    "album": "Alchemy (Liquicity Presents)",
+    "numero_de_pista": "7/12",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274556_8.flac",
+    "descripcion": "198274556",
+    "imagen": "Albums/198274556.png",
+    "genero": "Dance & DJ/Drum & Bass",
+    "titulo": "Sweet Surrender",
+    "artista": "Rameses B feat. Charlotte Haining",
+    "album": "Alchemy (Liquicity Presents)",
+    "numero_de_pista": "8/12",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274556_9.flac",
+    "descripcion": "198274556",
+    "imagen": "Albums/198274556.png",
+    "genero": "Dance & DJ/Drum & Bass",
+    "titulo": "That We Say",
+    "artista": "Maxin",
+    "album": "Alchemy (Liquicity Presents)",
+    "numero_de_pista": "9/12",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274556_10.flac",
+    "descripcion": "198274556",
+    "imagen": "Albums/198274556.png",
+    "genero": "Dance & DJ/Drum & Bass",
+    "titulo": "Raccoon City",
+    "artista": "aether & Sizzlebird feat. Veela",
+    "album": "Alchemy (Liquicity Presents)",
+    "numero_de_pista": "10/12",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274556_11.flac",
+    "descripcion": "198274556",
+    "imagen": "Albums/198274556.png",
+    "genero": "Dance & DJ/Drum & Bass",
+    "titulo": "Flight Path",
+    "artista": "Actraiser",
+    "album": "Alchemy (Liquicity Presents)",
+    "numero_de_pista": "11/12",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274556_12.flac",
+    "descripcion": "198274556",
+    "imagen": "Albums/198274556.png",
+    "genero": "Dance & DJ/Drum & Bass",
+    "titulo": "Don't Let Go",
+    "artista": "Raise Spirit",
+    "album": "Alchemy (Liquicity Presents)",
+    "numero_de_pista": "12/12",
+    "Año": "2015"
   }
 ]
