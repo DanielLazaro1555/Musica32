@@ -1109,5 +1109,104 @@
     "album": "40 Years of Major Tom - New Adventures",
     "numero_de_pista": "9/9",
     "Año": "2023"
+  },
+  {
+    "archivo_musica": "Albums/198274559_1.flac",
+    "descripcion": "198274559",
+    "imagen": "Albums/198274559.png",
+    "genero": "Pop",
+    "titulo": "The Different Story (World of Lust and Crime) [Single Version]",
+    "artista": "Peter Schilling",
+    "album": "The Different Story (World Of Lust And Crime)",
+    "numero_de_pista": "1/9",
+    "Año": "1989"
+  },
+  {
+    "archivo_musica": "Albums/198274559_2.flac",
+    "descripcion": "198274559",
+    "imagen": "Albums/198274559.png",
+    "genero": "Pop",
+    "titulo": "Major Tom (Coming Home)",
+    "artista": "Peter Schilling",
+    "album": "The Different Story (World Of Lust And Crime)",
+    "numero_de_pista": "2/9",
+    "Año": "1989"
+  },
+  {
+    "archivo_musica": "Albums/198274559_3.flac",
+    "descripcion": "198274559",
+    "imagen": "Albums/198274559.png",
+    "genero": "Pop",
+    "titulo": "The Noah Plan",
+    "artista": "Peter Schilling",
+    "album": "The Different Story (World Of Lust And Crime)",
+    "numero_de_pista": "3/9",
+    "Año": "1989"
+  },
+  {
+    "archivo_musica": "Albums/198274559_4.flac",
+    "descripcion": "198274559",
+    "imagen": "Albums/198274559.png",
+    "genero": "Pop",
+    "titulo": "City of Night (Berlin)",
+    "artista": "Peter Schilling",
+    "album": "The Different Story (World Of Lust And Crime)",
+    "numero_de_pista": "4/9",
+    "Año": "1989"
+  },
+  {
+    "archivo_musica": "Albums/198274559_5.flac",
+    "descripcion": "198274559",
+    "imagen": "Albums/198274559.png",
+    "genero": "Pop",
+    "titulo": "Lone Survivor",
+    "artista": "Peter Schilling",
+    "album": "The Different Story (World Of Lust And Crime)",
+    "numero_de_pista": "5/9",
+    "Año": "1989"
+  },
+  {
+    "archivo_musica": "Albums/198274559_6.flac",
+    "descripcion": "198274559",
+    "imagen": "Albums/198274559.png",
+    "genero": "Pop",
+    "titulo": "Terra Titanic (Lost to the Sea)",
+    "artista": "Peter Schilling",
+    "album": "The Different Story (World Of Lust And Crime)",
+    "numero_de_pista": "6/9",
+    "Año": "1989"
+  },
+  {
+    "archivo_musica": "Albums/198274559_7.flac",
+    "descripcion": "198274559",
+    "imagen": "Albums/198274559.png",
+    "genero": "Pop",
+    "titulo": "Zone 804",
+    "artista": "Peter Schilling",
+    "album": "The Different Story (World Of Lust And Crime)",
+    "numero_de_pista": "7/9",
+    "Año": "1989"
+  },
+  {
+    "archivo_musica": "Albums/198274559_8.flac",
+    "descripcion": "198274559",
+    "imagen": "Albums/198274559.png",
+    "genero": "Pop",
+    "titulo": "The Hurricane (Hammers on the Shore)",
+    "artista": "Peter Schilling",
+    "album": "The Different Story (World Of Lust And Crime)",
+    "numero_de_pista": "8/9",
+    "Año": "1989"
+  },
+  {
+    "archivo_musica": "Albums/198274559_9.flac",
+    "descripcion": "198274559",
+    "imagen": "Albums/198274559.png",
+    "genero": "Pop",
+    "titulo": "(Let's Play) U.S.A.",
+    "artista": "Peter Schilling",
+    "album": "The Different Story (World Of Lust And Crime)",
+    "numero_de_pista": "9/9",
+    "Año": "1989"
   }
 ]
