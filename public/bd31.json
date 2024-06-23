@@ -1648,5 +1648,126 @@
     "album": "Fantasía o realidad",
     "numero_de_pista": "12/12",
     "Año": "2003"
+  },
+  {
+    "archivo_musica": "Albums/198274562_1.flac",
+    "descripcion": "198274562",
+    "imagen": "Albums/198274562.jpg",
+    "genero": "Pop",
+    "titulo": "¿Qué pides tú?",
+    "artista": "Alex Ubago",
+    "album": "¿Qué pides tú? (Argentina)",
+    "numero_de_pista": "1/11",
+    "Año": "2001"
+  },
+  {
+    "archivo_musica": "Albums/198274562_2.flac",
+    "descripcion": "198274562",
+    "imagen": "Albums/198274562.jpg",
+    "genero": "Pop",
+    "titulo": "A Gritos de Esperanza",
+    "artista": "Alex Ubago",
+    "album": "Que pides du? (con bonus track para Argentina)",
+    "numero_de_pista": "2/11",
+    "Año": "2001"
+  },
+  {
+    "archivo_musica": "Albums/198274562_3.flac",
+    "descripcion": "198274562",
+    "imagen": "Albums/198274562.jpg",
+    "genero": "Pop",
+    "titulo": "¿Sabes?",
+    "artista": "Alex Ubago",
+    "album": "Que pides du? (con bonus track para Argentina)",
+    "numero_de_pista": "3/11",
+    "Año": "2001"
+  },
+  {
+    "archivo_musica": "Albums/198274562_4.flac",
+    "descripcion": "198274562",
+    "imagen": "Albums/198274562.jpg",
+    "genero": "Pop",
+    "titulo": "No te rindas",
+    "artista": "Alex Ubago",
+    "album": "Que pides du? (con bonus track para Argentina)",
+    "numero_de_pista": "4/11",
+    "Año": "2001"
+  },
+  {
+    "archivo_musica": "Albums/198274562_5.flac",
+    "descripcion": "198274562",
+    "imagen": "Albums/198274562.jpg",
+    "genero": "Pop",
+    "titulo": "Hay que ver",
+    "artista": "Alex Ubago",
+    "album": "Que pides du? (con bonus track para Argentina)",
+    "numero_de_pista": "5/11",
+    "Año": "2001"
+  },
+  {
+    "archivo_musica": "Albums/198274562_6.flac",
+    "descripcion": "198274562",
+    "imagen": "Albums/198274562.jpg",
+    "genero": "Pop",
+    "titulo": "Sin Miedo a Nada (con Amaia Montero)",
+    "artista": "Alex Ubago feat. Amaia Montero",
+    "album": "Que pides du? (con bonus track para Argentina)",
+    "numero_de_pista": "6/11",
+    "Año": "2001"
+  },
+  {
+    "archivo_musica": "Albums/198274562_7.flac",
+    "descripcion": "198274562",
+    "imagen": "Albums/198274562.jpg",
+    "genero": "Pop",
+    "titulo": "Ahora que no estás",
+    "artista": "Alex Ubago",
+    "album": "Que pides du? (con bonus track para Argentina)",
+    "numero_de_pista": "7/11",
+    "Año": "2001"
+  },
+  {
+    "archivo_musica": "Albums/198274562_8.flac",
+    "descripcion": "198274562",
+    "imagen": "Albums/198274562.jpg",
+    "genero": "Pop",
+    "titulo": "Por esta ciudad",
+    "artista": "Alex Ubago",
+    "album": "Que pides du? (con bonus track para Argentina)",
+    "numero_de_pista": "8/11",
+    "Año": "2001"
+  },
+  {
+    "archivo_musica": "Albums/198274562_9.flac",
+    "descripcion": "198274562",
+    "imagen": "Albums/198274562.jpg",
+    "genero": "Pop",
+    "titulo": "Vuelves a pensar",
+    "artista": "Alex Ubago",
+    "album": "Que pides du? (con bonus track para Argentina)",
+    "numero_de_pista": "9/11",
+    "Año": "2001"
+  },
+  {
+    "archivo_musica": "Albums/198274562_10.flac",
+    "descripcion": "198274562",
+    "imagen": "Albums/198274562.jpg",
+    "genero": "Pop",
+    "titulo": "Dime si no es amor",
+    "artista": "Alex Ubago",
+    "album": "Que pides du? (con bonus track para Argentina)",
+    "numero_de_pista": "10/11",
+    "Año": "2001"
+  },
+  {
+    "archivo_musica": "Albums/198274562_11.flac",
+    "descripcion": "198274562",
+    "imagen": "Albums/198274562.jpg",
+    "genero": "Pop",
+    "titulo": "Sin miedo a nada",
+    "artista": "Alex Ubago",
+    "album": "¿Qué pides tú? (Argentina)",
+    "numero_de_pista": "11/11",
+    "Año": "2001"
   }
 ]
