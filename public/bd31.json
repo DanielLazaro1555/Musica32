@@ -1857,5 +1857,38 @@
     "album": "Waveline",
     "numero_de_pista": "8/8",
     "Año": "2021"
+  },
+  {
+    "archivo_musica": "Albums/198274564_1.flac",
+    "descripcion": "198274564",
+    "imagen": "Albums/198274564.jpg",
+    "genero": "Dance & DJ/Drum & Bass",
+    "titulo": "Ghost Assassin (Original Mix)",
+    "artista": "Maduk & Veela",
+    "album": "Ghost Assassin EP",
+    "numero_de_pista": "1/2",
+    "Año": "2012"
+  },
+  {
+    "archivo_musica": "Albums/198274564_2.flac",
+    "descripcion": "198274564",
+    "imagen": "Albums/198274564.jpg",
+    "genero": "Dance & DJ/Drum & Bass",
+    "titulo": "Voices (Maduk Remix)",
+    "artista": "Booij & Maduk",
+    "album": "Ghost Assassin EP",
+    "numero_de_pista": "2/2",
+    "Año": "2012"
+  },
+  {
+    "archivo_musica": "Albums/198274565_1.flac",
+    "descripcion": "198274565",
+    "imagen": "Albums/198274565.jpg",
+    "genero": "Dance & DJ/Drum & Bass",
+    "titulo": "Always in a Nightmare",
+    "artista": "Au5 & Nytrix",
+    "album": "Always in a Nightmare",
+    "numero_de_pista": "1/1",
+    "Año": "2020"
   }
 ]
