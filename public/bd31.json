@@ -1769,5 +1769,93 @@
     "album": "¿Qué pides tú? (Argentina)",
     "numero_de_pista": "11/11",
     "Año": "2001"
+  },
+  {
+    "archivo_musica": "Albums/198274563_1.flac",
+    "descripcion": "198274563",
+    "imagen": "Albums/198274563.jpg",
+    "genero": "Dance & DJ/Drum & Bass",
+    "titulo": "Prelude",
+    "artista": "Lexurus",
+    "album": "Waveline",
+    "numero_de_pista": "1/8",
+    "Año": "2021"
+  },
+  {
+    "archivo_musica": "Albums/198274563_2.flac",
+    "descripcion": "198274563",
+    "imagen": "Albums/198274563.jpg",
+    "genero": "Dance & DJ/Drum & Bass",
+    "titulo": "Crystalize",
+    "artista": "Lexurus",
+    "album": "Waveline",
+    "numero_de_pista": "2/8",
+    "Año": "2021"
+  },
+  {
+    "archivo_musica": "Albums/198274563_3.flac",
+    "descripcion": "198274563",
+    "imagen": "Albums/198274563.jpg",
+    "genero": "Dance & DJ/Drum & Bass",
+    "titulo": "Oblivion",
+    "artista": "Lexurus",
+    "album": "Waveline",
+    "numero_de_pista": "3/8",
+    "Año": "2021"
+  },
+  {
+    "archivo_musica": "Albums/198274563_4.flac",
+    "descripcion": "198274563",
+    "imagen": "Albums/198274563.jpg",
+    "genero": "Dance & DJ/Drum & Bass",
+    "titulo": "Magnify",
+    "artista": "Lexurus & Rhode",
+    "album": "Waveline",
+    "numero_de_pista": "4/8",
+    "Año": "2021"
+  },
+  {
+    "archivo_musica": "Albums/198274563_5.flac",
+    "descripcion": "198274563",
+    "imagen": "Albums/198274563.jpg",
+    "genero": "Dance & DJ/Drum & Bass",
+    "titulo": "Waveline",
+    "artista": "Lexurus, Polygon & Dualistic",
+    "album": "Waveline",
+    "numero_de_pista": "5/8",
+    "Año": "2021"
+  },
+  {
+    "archivo_musica": "Albums/198274563_6.flac",
+    "descripcion": "198274563",
+    "imagen": "Albums/198274563.jpg",
+    "genero": "Dance & DJ/Drum & Bass",
+    "titulo": "Continua",
+    "artista": "Lexurus & Dualistic",
+    "album": "Waveline",
+    "numero_de_pista": "6/8",
+    "Año": "2021"
+  },
+  {
+    "archivo_musica": "Albums/198274563_7.flac",
+    "descripcion": "198274563",
+    "imagen": "Albums/198274563.jpg",
+    "genero": "Dance & DJ/Drum & Bass",
+    "titulo": "Reminiscence",
+    "artista": "Lexurus & Roses",
+    "album": "Waveline",
+    "numero_de_pista": "7/8",
+    "Año": "2021"
+  },
+  {
+    "archivo_musica": "Albums/198274563_8.flac",
+    "descripcion": "198274563",
+    "imagen": "Albums/198274563.jpg",
+    "genero": "Dance & DJ/Drum & Bass",
+    "titulo": "Magnify (Justin Hawkes Remix)",
+    "artista": "Lexurus, Rhode & Justin Hawkes",
+    "album": "Waveline",
+    "numero_de_pista": "8/8",
+    "Año": "2021"
   }
 ]
